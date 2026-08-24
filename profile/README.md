@@ -1,4 +1,4 @@
-![banner](assets/images/banner.png)
+![banner](assets/images/banner.jpeg)
 <!--
 
 **Here are some ideas to get you started:**
