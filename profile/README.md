@@ -1,5 +1,4 @@
-![](assets/iamges/logo.png)
-
+![banner](assets/images/banner.png)
 <!--
 
 **Here are some ideas to get you started:**
