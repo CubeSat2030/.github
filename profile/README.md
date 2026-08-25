@@ -1,4 +1,4 @@
-![banner](assets/images/banner.jpeg)
+![banner](assets/images/CubeSat2030_banner.png)
 
 ---
 
